@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "5b4f11a6cb964256",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b210804996994cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a1b02a53303a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2509.08785.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2509.08785"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa75b5e486b33470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4396a7c2dbe396",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "565b1322bf30a0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4d5473acfaa1cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d217556f7179daa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "60e14cbef0f5290c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6d615dc3057ff4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ff19e14c3ffa9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "115979d103e474b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a067163c88c5dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "80c41eba4fb29ed2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "abfe54238e6a0ee8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6a446c26ef41fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5f4396a7c2dbe396",
+  "lastOpenFiles": [
+    "2509.08785.md",
+    "2509.09677.md",
+    "rule.md",
+    "template.md",
+    "Welcome.md",
+    "Narrative-Guided Reinforcement Learning (arXiv-2509.08785).md",
+    "words/README.md",
+    "words",
+    "pdf/2509.09677v1.pdf",
+    "pdf/2509.08785v1.txt",
+    "pdf/2509.08785v1.pdf",
+    "2509.08785v1.pdf",
+    "pdf",
+    "The Illusion of Diminishing Returns Measuring Long Horizon Execution in LLMs.md"
+  ]
+}

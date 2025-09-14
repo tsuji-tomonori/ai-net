@@ -1,0 +1,37 @@
+# <type>(<scope>): <subject>
+#
+# <body>
+#
+# <footer>
+
+# Typeは以下のいずれかを使用してください:
+# * paper (論文ノートの追加・更新)
+# * word (用語集の追加・更新)
+# * fix (誤記修正、リンク修正)
+# * docs (README、ルールドキュメント更新)
+# * style (フォーマット、Markdown構文修正など)
+# * refactor (ノート構造の改善、タグ整理)
+# * chore (設定ファイル更新、.gitignore更新など)
+
+# Scopeは変更の範囲を示します:
+# * arXiv ID (例: 2509.08785)
+# * 用語名 (例: agent, self-conditioning)
+# * meta (メタデータ、テンプレート)
+# * config (設定ファイル)
+
+# Subjectは変更内容を簡潔に説明してください
+# 例:
+# * paper(2509.08785): Scalable Autoregressive Monadicityのノートを追加
+# * word(agent): エージェントの定義と種類を追加
+# * fix(2509.09677): arXivリンクを修正
+# * docs: 論文ノート運用ルールを更新
+
+# Bodyには以下を含めてください:
+# * 論文の場合: タイトル、主要な貢献、関連する用語
+# * 用語の場合: 定義の要点、参照している論文
+# * その他: 変更の理由と影響
+
+# Footerには関連する論文やissueを記載:
+# * Related: arxiv:2509.08785
+# * See also: words/agent.md
+# * Refs: #123

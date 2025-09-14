@@ -1,0 +1,7 @@
+# Ignore PDFs and local pdf directory (do not commit PDFs)
+*.pdf
+pdf/
+
+# Obsidian cache/state (optional; keep if you want to track)
+# .obsidian/cache
+# .obsidian/workspace.json
